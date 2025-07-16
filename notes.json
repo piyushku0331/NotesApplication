@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Meeting Notes",
+    "content": "Discuss project roadmap and deliverables.",
+    "tags": [
+      "meeting",
+      "project"
+    ],
+    "pinned": false,
+    "createdAt": "2025-07-16T13:37:16.333Z",
+    "deleted": false
+  }
+]

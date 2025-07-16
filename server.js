@@ -159,10 +159,3 @@ app.delete('/notes/:id/force', async(req, res)=>{
 app.listen(PORT,()=>{
     console.log(`Server Running At: http://localhost:${PORT}`);
 });
-
-process.on('uncaughtException', err => {
-  console.error('Uncaught Exception:', err);
-});
-process.on('unhandledRejection', err => {
-  console.error('Unhandled Rejection:', err);
-});
