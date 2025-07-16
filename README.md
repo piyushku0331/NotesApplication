@@ -216,10 +216,10 @@ If you would like to contribute to this project, please follow the steps below:
    ```
    
 6. **Create a Pull Request**
-  - Go to your forked repo on GitHub
-  - Click "Compare & pull request"
-  - Provide a clear and concise description of your changes
-  - Submit the PR 🎉
+   - Go to your forked repo on GitHub
+   - Click "Compare & pull request"
+   - Provide a clear and concise description of your changes
+   - Submit the PR 🎉
 
 ---
 
