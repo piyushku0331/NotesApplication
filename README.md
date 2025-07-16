@@ -31,8 +31,14 @@ A simple yet powerful RESTful Notes API built with **Node.js** and **Express.js*
 ---
 
 ## 💻 Installation
+### 1️⃣ Prerequisites
+- [Node.js](https://nodejs.org/) installed
+- [Postman](https://www.postman.com/) or `curl` for API testing
+- Basic terminal/command prompt knowledge
 
-1. **Clone the repository:**
+---
+
+2. **Clone the repository:**
 
 ```bash
 git clone https://github.com/your-username/notes-application.git
