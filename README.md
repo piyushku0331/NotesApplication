@@ -226,3 +226,10 @@ If you would like to contribute to this project, please follow the steps below:
   -  Add comments where necessary
   - Ensure the project runs without errors
   - Be respectful and constructive during code reviews
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
