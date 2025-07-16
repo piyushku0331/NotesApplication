@@ -221,8 +221,6 @@ If you would like to contribute to this project, please follow the steps below:
    - Provide a clear and concise description of your changes
    - Submit the PR 🎉
 
----
-
 ✅ Contribution Guidelines
   - Follow consistent code style and project structure
   -  Add comments where necessary
