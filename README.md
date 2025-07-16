@@ -14,7 +14,7 @@ A simple yet powerful RESTful Notes API built with **Node.js** and **Express.js*
 - [Tech Stack](#-tech-stack)
 - [Future Scope](#-future-scope)
 - [Contributing](#-contributing)
-- [License](#-license)
+- [License](#-LICENSE)
 
 ---
 
