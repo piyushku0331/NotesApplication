@@ -191,7 +191,7 @@ If you would like to contribute to this project, please follow the steps below:
 ### 🧾 Steps to Contribute
 
 1. **Fork the repository**
-   - Click the **"Fork"** button at the top-right of this repository page.
+   • Click the **"Fork"** button at the top-right of this repository page.
 
 2. **Clone your forked repository**
    ```bash
@@ -216,10 +216,10 @@ If you would like to contribute to this project, please follow the steps below:
    ```
    
 6.**Create a Pull Request**
-  •Go to your forked repo on GitHub
-  •Click "Compare & pull request"
-  •Provide a clear and concise description of your changes
-  •Submit the PR 🎉
+  • Go to your forked repo on GitHub
+  • Click "Compare & pull request"
+  • Provide a clear and concise description of your changes
+  • Submit the PR 🎉
 
 ###✅ Contribution Guidelines
   •Follow consistent code style and project structure
