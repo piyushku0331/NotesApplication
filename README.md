@@ -191,7 +191,7 @@ If you would like to contribute to this project, please follow the steps below:
 ### 🧾 Steps to Contribute
 
 1. **Fork the repository
-   • Click the **"Fork"** button at the top-right of this repository page.
+   - Click the **"Fork"** button at the top-right of this repository page.
 
 2. **Clone your forked repository
    ```bash
@@ -204,25 +204,27 @@ If you would like to contribute to this project, please follow the steps below:
    git checkout -b feature/your-feature-name
    ```
 
-4. **Make your changes
-   • Add your feature or fix a bug
-   • Ensure the code is clean, readable, and well-documented
+4. **Make your changes**
+   - Add your feature or fix a bug
+   - Ensure the code is clean, readable, and well-documented
 
-5. **Commit and push your changes
+5. **Commit and push your changes**
    ```bash
    git add .
    git commit -m "✨ Add: Your feature description"
    git push origin feature/your-feature-name
    ```
    
-6.**Create a Pull Request
-  • Go to your forked repo on GitHub
-  • Click "Compare & pull request"
-  • Provide a clear and concise description of your changes
-  • Submit the PR 🎉
+6.**Create a Pull Request**
+  - Go to your forked repo on GitHub
+  - Click "Compare & pull request"
+  - Provide a clear and concise description of your changes
+  - Submit the PR 🎉
+
+---
 
 ###✅ Contribution Guidelines
-  • Follow consistent code style and project structure
-  • Add comments where necessary
-  • Ensure the project runs without errors
-  • Be respectful and constructive during code reviews
+  - Follow consistent code style and project structure
+  -  Add comments where necessary
+  - Ensure the project runs without errors
+  - Be respectful and constructive during code reviews
