@@ -190,16 +190,16 @@ If you would like to contribute to this project, please follow the steps below:
 
 ### 🧾 Steps to Contribute
 
-1. **Fork the repository
+1. **Fork the repository**
    - Click the **"Fork"** button at the top-right of this repository page.
 
-2. **Clone your forked repository
+2. **Clone your forked repository**
    ```bash
    git clone https://github.com/your-username/notes-application.git
    cd notes-application
    ```
 
-3. **Create a new Branch
+3. **Create a new Branch**
    ```bash
    git checkout -b feature/your-feature-name
    ```
