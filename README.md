@@ -215,7 +215,7 @@ If you would like to contribute to this project, please follow the steps below:
    git push origin feature/your-feature-name
    ```
    
- 6.**Create a Pull Request**
+6. **Create a Pull Request**
   - Go to your forked repo on GitHub
   - Click "Compare & pull request"
   - Provide a clear and concise description of your changes
